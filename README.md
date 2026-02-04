@@ -26,19 +26,3 @@ PUT /notes/:id
 
 GET /notes/search?q=
 
----
-
-> Hi Chetan,  
->  
-> I’ve completed the Notes Backend API assignment as requested.  
-> The solution includes validation, intelligent search, partial updates, no-change detection, and rate limiting.  
->  
-> Please find the code attached / repository link below.  
->  
-> Looking forward to your feedback.  
->  
-> Thanks & regards,  
-> **Yash Vashishth**
-
----
-
