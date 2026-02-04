@@ -28,8 +28,6 @@ GET /notes/search?q=
 
 ---
 
-## ✉️ Submission Message (Copy–Paste)
-
 > Hi Chetan,  
 >  
 > I’ve completed the Notes Backend API assignment as requested.  
